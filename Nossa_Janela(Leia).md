@@ -1,1 +1,1 @@
-Ainda vou melhorar esse plugin e adicionar novas funções!
+# Ainda vou melhorar esse plugin e adicionar novas funções!
